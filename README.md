@@ -22,6 +22,7 @@ Knowledge of Selenium with Java
 Setup instructions - includes any scripts that need to be run if necessary
 Make sure you have nodeJs is installed in your machine -Project makes use of bikeIndex API. Javascript and promises.
 Knowledge of customer market trends 
+Knowledge of product life cycle
 
 download project
 
